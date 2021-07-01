@@ -3,3 +3,4 @@ util
 node_modules
 *.vsix
 stats.json
+.npmrc
